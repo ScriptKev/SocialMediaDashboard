@@ -1,4 +1,4 @@
-import { API } from './config';
+import API from './config';
 
 const getUser = () => {
   return fetch(`${API}/user`, { method: 'GET' })

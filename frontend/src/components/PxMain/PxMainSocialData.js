@@ -2,8 +2,15 @@ import React from 'react';
 import user from '../../assets/data/user'
 import PxSocialDataUser from './PxSocialDataUser';
 import PxOverviewTodayData from './PxOverviewTodayData';
+import API from '../../config';
 
 const PxMainSocialData = () => {
+  console.log(API)
+  fetch('https://powerful-plateau-63061.herokuapp.com/api/user')
+    .then(response => response.json())
+    .then(json => console.log(json));
+
+
   return (
     <main className="mainSocialData">
       <div className="mainSocialData__container">

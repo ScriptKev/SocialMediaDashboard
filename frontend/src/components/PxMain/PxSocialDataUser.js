@@ -1,4 +1,5 @@
 import React from 'react';
+// import getUser from '../../apiCore';
 
 const PxSocialDataUser = props => {
   const userSocialNetwork = props.socialNetwork[0];
