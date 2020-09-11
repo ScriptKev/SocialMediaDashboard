@@ -1,38 +1,36 @@
-[
-  {
-      "id": 1,
-      "fullName": "Kevin Blanco",
+{
+  "id": 1,
+  "fullName": "Kevin Blanco",
 
-      "facebook":{
-        "userName": "KevinDBlancoO",
-        "followers": 1987,
-        "followersToday": 12,
-        "pageViews": 87,
-        "likes": 52
-      },
+  "facebook":{
+    "userName": "KevinDBlancoO",
+    "followers": 1987,
+    "followersToday": 12,
+    "pageViews": 87,
+    "likes": 52
+  },
 
-      "twitter": {
-        "userName": "ScriptKev",
-        "followers": 1044,
-        "followersToday": 99,
-        "retweets": 117,
-        "likes": 507
-      },
+  "twitter": {
+    "userName": "ScriptKev",
+    "followers": 1044,
+    "followersToday": 99,
+    "retweets": 117,
+    "likes": 507
+  },
 
-      "instagram": {
-        "userName": "ScriptKev",
-        "followers": 11242,
-        "followersToday": 1099,
-        "pageViews": 52000,
-        "likes": 5462
-      },
+  "instagram": {
+    "userName": "ScriptKev",
+    "followers": 11242,
+    "followersToday": 1099,
+    "pageViews": 52000,
+    "likes": 5462
+  },
 
-      "youtube": {
-      "userName": "ScriptKev",
-      "followers": 8239,
-      "followersToday": 144,
-      "totalViews": 1407,
-      "likes": 107
-    }
+  "youtube": {
+  "userName": "ScriptKev",
+  "followers": 8239,
+  "followersToday": 144,
+  "totalViews": 1407,
+  "likes": 107
   }
-]
+}
